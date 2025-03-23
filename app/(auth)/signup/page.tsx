@@ -11,7 +11,7 @@ export default function SignupPage(){
             </div>
              <div className="flex flex-col items-center gap-2">
            
-            <Button color="primary">Registrarse</Button>
+            <Button color="primary">Iniciar Sesión</Button>
             <p className="text-white">
                 ¿Ya tienes uuna cuenta? <link href="/login" className="text-red-200 underline">Inicia Sesión</link>
             </p>
